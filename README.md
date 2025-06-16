@@ -27,7 +27,7 @@ The circuit includes:
 
 ## Files
 
-- `inducer_parameter_sweep.py` -> main simulation script.
+- `inducer_simulation.ipynb` -> main simulation script.
 - `inducer_effect_on_protein.png` -> sample plot of output.
 - `README.md` ->  project explanation.
 
