@@ -52,10 +52,6 @@ The circuit includes:
 - How to visualize biological models with matplotlib.
 - Debugging model reactions and correcting simulation logic.
 
-## Author Notes
-
-This is a **learning project** built before the start of formal undergraduate studies, as part of my preparation for a future career in **synthetic biology and genetic circuit design**. It forms part of a growing collection of small, focused models to build intuition in modeling and simulation.
-
 ---
 
 ## References
